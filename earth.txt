@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 This is the world we live in
 
 blabla bal
 
 blallll
+=======
+There is not anything interesting here.
+
+Hmm there should be sth here.
+>>>>>>> asteroids
